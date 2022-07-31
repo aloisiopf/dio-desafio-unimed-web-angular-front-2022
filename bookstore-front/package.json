@@ -1,6 +1,6 @@
 {
   "name": "bookstore-front",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -35,5 +35,17 @@
     "karma-jasmine": "~5.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "typescript": "~4.7.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aloisiopf/dio-desafio-unimed-web-angular-front-2022.git"
+  },
+  "author": "aloisiopf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloisiopf/dio-desafio-unimed-web-angular-front-2022/issues"
+  },
+  "homepage": "https://github.com/aloisiopf/dio-desafio-unimed-web-angular-front-2022#readme"
 }
